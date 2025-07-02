@@ -28,7 +28,7 @@ export default function App() {
               <img src={game.image} alt={game.title} className="game-image" />
               <div className="game-info">
                 <h3 className="game-title">{game.title}</h3>
-                {/* <p className="game-desc">Learn More</p> */}
+                <p className="game-desc">{game.description}</p>
               </div>
             </a>
           ))}
@@ -49,6 +49,7 @@ export default function App() {
               <img src={game.image} alt={game.title} className="game-image" />
               <div className="game-info">
                 <h3 className="game-title">{game.title}</h3>
+                <p className="game-desc">{game.description}</p>
               </div>
             </a>
           ))}
