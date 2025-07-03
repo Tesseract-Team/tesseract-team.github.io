@@ -16,7 +16,7 @@ export default function App() {
 
       <section className="highlighted-section">
         <h2 className="section-title">Highlighted Games</h2>
-        <div className="highlighted-grid">
+        <div className="game-grid highlighted-grid">
           {highlightedGames.map((game, index) => (
             <a
               key={index}
@@ -37,7 +37,7 @@ export default function App() {
 
       <section>
         <h2 className="section-title">All Games</h2>
-        <div className="grid">
+        <div className="game-grid grid">
           {otherGames.map((game, index) => (
             <a
               key={index}
