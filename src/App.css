@@ -14,7 +14,7 @@ body {
   padding: 2rem 1rem;
 }
 
-.logo {
+.banner {
   width: 100%;
   max-width: 1200px;
   display: block;
@@ -62,12 +62,9 @@ body {
 
 .game-image {
   width: 100%;
+  aspect-ratio: 1232 / 706;
   object-fit: cover;
-  height: 100px;
-}
-
-.game-card.large .game-image {
-  height: 200px;
+  display: block;
 }
 
 .game-info {

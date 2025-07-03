@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 
-import logo from "./assets/logo.png";
+import banner from "./assets/banner.png";
 import games from "./data/games";
 
 export default function App() {
@@ -11,7 +11,7 @@ export default function App() {
   return (
     <div className="app">
       <header className="banner">
-        <img src={logo} alt="Tesseract Team Logo" className="logo" />
+        <img src={banner} alt="Tesseract Team Banner" className="banner" />
       </header>
 
       <section className="highlighted-section">
@@ -36,7 +36,7 @@ export default function App() {
       </section>
 
       <section>
-        <h2 className="section-title">All Games</h2>
+        <h2 className="section-title">Other Games</h2>
         <div className="game-grid grid">
           {otherGames.map((game, index) => (
             <a

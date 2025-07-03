@@ -8,7 +8,6 @@ import unicorn from "../assets/project_unicorn.png";
 import brawlroll from "../assets/brawl_roll.png";
 import hemostasis from "../assets/hemostasis.png";
 import rails from "../assets/out_of_rails.png";
-import easiest from "../assets/easiest_game_ever.png";
 
 const games = [
   {
