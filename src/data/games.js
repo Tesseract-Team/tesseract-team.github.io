@@ -14,19 +14,19 @@ const games = [
     title: "Starseeker",
     image: starseeker,
     link: "https://tesseract-team.itch.io/starseeker",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fermentum, lacus in placerat posuere, lorem tortor molestie urna.",
+    description: "The stars must guide you home, read them well.",
   },
   {
     title: "Pesky Bubbles!!",
     image: bubbles,
     link: "https://tesseract-team.itch.io/pesky-bubbles",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fermentum, lacus in placerat posuere, lorem tortor molestie urna.",
+    description: "Dive into the witch's cauldron and pop the malicious bubbles!",
   },
   {
     title: "Project Unicorn",
     image: unicorn,
     link: "https://tesseract-team.itch.io/project-unicorn",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fermentum, lacus in placerat posuere, lorem tortor molestie urna.",
+    description: "Speedrun delivery your rainbow to people who need a little more joy.",
   },
   {
     title: "Bucket of Orders",
@@ -41,7 +41,7 @@ const games = [
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fermentum, lacus in placerat posuere, lorem tortor molestie urna.",
   },
   {
-    title: "Mines and Camps",
+    title: "Gobo Mobo Charge!!",
     image: camps,
     link: "https://tesseract-team.itch.io/mines-and-camps",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fermentum, lacus in placerat posuere, lorem tortor molestie urna.",
@@ -62,13 +62,13 @@ const games = [
     title: "Hemostasis",
     image: hemostasis,
     link: "https://tesseract-team.itch.io/hemostasis",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fermentum, lacus in placerat posuere, lorem tortor molestie urna.",
+    description: "A simple game, about defending a wound from infection.",
   },
   {
     title: "Out Of Rails",
     image: rails,
     link: "https://tesseract-team.itch.io/out-of-rails",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fermentum, lacus in placerat posuere, lorem tortor molestie urna.",
+    description: "Your train is out of control!",
   },
 ];
 
